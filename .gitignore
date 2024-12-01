@@ -3,3 +3,5 @@
 !/data/git.keep
 !/data/trained_agent.txt
 /data/
+.idea/
+*/__pycache__/
