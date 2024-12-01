@@ -1,0 +1,5 @@
+/.venv/
+/jupyter/.ipynb_checkpoints/
+!/data/git.keep
+!/data/trained_agent.txt
+/data/

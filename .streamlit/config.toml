@@ -1,0 +1,15 @@
+# .streamlit/config.toml
+
+[theme]
+base = "dark"  # Base theme can be "light" or "dark"
+
+# Background colors
+backgroundColor = "#2B2B2B"
+secondaryBackgroundColor = "#181818"
+
+# Text color
+textColor = "#FFFFFF"
+
+# Font style
+font = "sans serif"
+
